@@ -312,6 +312,21 @@
 
     <camera>
         <maker>Panasonic</maker>
+        <model>DMC-TZ7</model>
+        <mount>panasonicTZ7</mount>
+        <cropfactor>5.693</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Panasonic</maker>
+        <model>DMC-ZS3</model>
+        <!-- North American version of TZ7 -->
+        <mount>panasonicTZ7</mount>
+        <cropfactor>5.693</cropfactor>
+    </camera>
+    
+    <camera>
+        <maker>Panasonic</maker>
         <model>DMC-TZ71</model>
         <mount>panasonicTZ71</mount>
         <cropfactor>5.58</cropfactor>
